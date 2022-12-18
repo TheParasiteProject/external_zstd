@@ -110,6 +110,7 @@ cc_library {
         "//system/core/fastboot:__subpackages__",
         "//system/extras/partition_tools:__subpackages__",
         "//system/unwinding/libunwindstack:__subpackages__",
+        "//external/rsync:__subpackages__",
     ],
     product_available: true,
     recovery_available: true,
